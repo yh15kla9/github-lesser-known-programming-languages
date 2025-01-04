@@ -1163,7 +1163,6 @@ readable, so you can focus on problems rather than ceremony.
 - [WisniaLang](https://github.com/belijzajac/WisniaLang) - A compiler for an experimental programming language that produces tiny Linux binaries (ELF x86_64) without LLVM dependency!
 - [Wisp](https://www.draketo.de/software/wisp) - Wisp turns indentation into lisp expressions.
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
-- [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
 - [Wuffs](https://github.com/google/wuffs) - Wuffs (Wrangling Untrusted File Formats Safely) is a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely. Wrangling includes parsing, decoding and encoding. Example file formats include images, audio, video, fonts and compressed archives.
 - [Wyvern](https://github.com/wyvernlang/wyvern) - Wyvern is a new general-purpose programming language designed to support adaptation and assurance. Key features of Wyvern's evolving design include:   
   - A simple object model with good support for both object-oriented and functional programming
