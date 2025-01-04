@@ -1183,7 +1183,7 @@ readable, so you can focus on problems rather than ceremony.
 - [xpl](https://github.com/phorward/xpl) - eXample Programming Language. C-like language syntax; arithmetic and conditional expressions; dynamically typed; 3 data-types: integer, float, string; simple control structures (conditionals, iterations); 6 build-in functions
 - [XSB](https://xsb.sourceforge.net/) - XSB is a Logic Programming and Deductive Database system for Unix and Windows.
 - [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
-# Y (4):
+# Y:
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
