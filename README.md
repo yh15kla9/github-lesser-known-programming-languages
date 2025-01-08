@@ -312,10 +312,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Objeck](https://github.com/objeck/objeck-lang) - Objeck is an object-oriented programming language with functional features. Objeck emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, and command line debugger with IDE plugins.
 - [Objective-J](https://www.cappuccino.dev/learn/objective-j.html) - Objective-J is a new programming language based on Objective-C. It is a superset of JavaScript, which means that any valid JavaScript code is also valid Objective-J code. Anyone familiar with JavaScript and object-oriented programming concepts, classical inheritance in particular, should have no difficulty learning Objective-J. Familiarity with Objective-C will be helpful, but it is not required.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
-- [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
-- [One](https://github.com/One-Language/One) - It is an open source, self-hosted, bootstrapping system programming language which makes it easy to build reliable and efficient software. One is a programming language that makes it easy to build reliable, efficient and performant software. [system]
 - [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
-- [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 # P (50):
 - [P](https://github.com/p-org/P) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [Pharo](https://github.com/pharo-project/pharo) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
