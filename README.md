@@ -1,11 +1,5 @@
 # Awesome programming languages
 The list of programming languages that you might be interested in.
-If you like exploring programming languages, or you are making your own programming language,
-then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
-
-[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
-[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
-[![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
 # A:
@@ -218,22 +212,3 @@ then it's place for you. Here you can find interesting programming languages tha
 # Z:
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-
-# See also:
-- [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
-- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
-- [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
-- [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
-- [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
-- [Awesome low level programming languages](https://github.com/robertmuth/awesome-low-level-programming-languages)
-- [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) - List of languages that compile to JavaScript and many other transpilers.
-- [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
-- [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
-- [Programming Language Design](https://proglangdesign.net/) - Programming Language Design is dedicated to the theory, design and implementation of programming languages.
-- [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
-- [Lox implementations](https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations) - Lots implementations of Lox language written in many programming languages.
-- [Langs written in Rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration. This is a (probably incomplete) list of languages implemented in Rust. It is intended as a source of inspiration and comparison, and as a directory of potentially interesting projects in this vein.
-- [Programming Language Database](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A computable encyclopedia about programming languages.
-- [History of Programming Languages](http://hopl.info) - HOPL: Online Historical Encyclopaedia of Programming Languages.
-- [Esolang Wiki](https://esolangs.org/wiki/) - Esolang is a wiki dedicated to esoteric programming languages and related topics.
-- [List of Chinese programming languages](https://github.com/ploc-org/zh-lang-book) - List of production ready and in development stage of programming languages in Chinese.
