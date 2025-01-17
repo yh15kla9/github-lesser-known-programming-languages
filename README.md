@@ -89,7 +89,6 @@ The list of programming languages that you might be interested in.
   - Global and local state handling
   - Synchronous and asynchronous computations that might fail
 - [Mojo](https://github.com/modularml/mojo) - Mojo is a new programming language that bridges the gap between research and production by combining Python syntax and ecosystem with systems programming and metaprogramming features. Mojo is still young, but it is designed to become a superset of Python over time.
-- [MoonScript](https://github.com/leafo/moonscript) - MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
 - [muon](https://github.com/nickmqb/muon) - Muon is a modern low-level programming language, inspired by C, C#, Go, Rust and Python.
 # N:
