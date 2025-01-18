@@ -76,7 +76,6 @@ The list of programming languages that you might be interested in.
   - Routing
   - Global and local state handling
   - Synchronous and asynchronous computations that might fail
-- [Mojo](https://github.com/modularml/mojo) - Mojo is a new programming language that bridges the gap between research and production by combining Python syntax and ecosystem with systems programming and metaprogramming features. Mojo is still young, but it is designed to become a superset of Python over time.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
 - [muon](https://github.com/nickmqb/muon) - Muon is a modern low-level programming language, inspired by C, C#, Go, Rust and Python.
 # N:
@@ -90,11 +89,6 @@ The list of programming languages that you might be interested in.
   - Function tags/closures/error prompts/runtime stack traces/coroutines
   - Integrated SSA/linear scan register allocation/reflection/assembler & linker
 - [Nelua](https://github.com/edubart/nelua-lang) - Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
-- [Never](https://github.com/never-lang/never) - Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.
-- [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
-- [Nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
-- [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
 - [NPL](https://github.com/LiXizhi/NPLRuntime) - NPL or Neural Parallel Language is an open source, high-performance scripting language.
 # O:
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
