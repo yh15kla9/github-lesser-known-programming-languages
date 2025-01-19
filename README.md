@@ -99,7 +99,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [PureScript](https://github.com/purescript/purescript) - A strongly-typed functional programming language that compiles to JavaScript
 # Q:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
-- [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
 - [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
 # R:
