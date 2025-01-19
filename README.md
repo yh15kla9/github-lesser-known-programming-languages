@@ -1,4 +1,4 @@
-# Awesome programming languages
+# Lesser-known programming languages
 The list of lesser-known programming languages that you might be interested in.
 
 ## Contents
