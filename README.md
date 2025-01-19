@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of programming languages that you might be interested in.
+The list of lesser-known programming languages that you might be interested in.
 
 ## Contents
 # A:
