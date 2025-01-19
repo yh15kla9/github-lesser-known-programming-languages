@@ -87,7 +87,6 @@ The list of programming languages that you might be interested in.
   - Package and module management
   - Function tags/closures/error prompts/runtime stack traces/coroutines
   - Integrated SSA/linear scan register allocation/reflection/assembler & linker
-- [Nelua](https://github.com/edubart/nelua-lang) - Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 # O:
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
 - [Objeck](https://github.com/objeck/objeck-lang) - Objeck is an object-oriented programming language with functional features. Objeck emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, and command line debugger with IDE plugins.
@@ -123,8 +122,6 @@ The list of programming languages that you might be interested in.
 # T:
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_.
-- [Teal](https://github.com/teal-language) - A typed dialect of Lua
-- [Terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
 - [Typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 # U:
 - [Umka](https://github.com/vtereshkov/umka-lang) - Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
