@@ -43,9 +43,7 @@ The list of lesser-known programming languages that you might be interested in.
   - Powerful built-in data processing capabilities.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 # H:
-- [Hylo](https://www.hylo-lang.org/) - Hylo (formely Val) is a programming language that leverages mutable value semantics and generic programming for high-level systems programming.
 # I:
-- [Imba](https://github.com/imba/imba) - Imba is a friendly full-stack programming language for the web that compiles to performant JavaScript. It has language-level support for defining, extending, subclassing, instantiating and rendering DOM nodes.
 # J:
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
 - [Jim](https://jim.tcl.tk/index.html/doc/www/www/index.html) - Jim is an opensource small-footprint implementation of the Tcl programming language. It implements a large subset of Tcl and adds new features like references with garbage collection, closures, built-in Object Oriented Programming system, Functional Programming commands, first-class arrays and UTF-8 support. All this with a binary size of about 100-200kB (depending upon selected options).
@@ -61,16 +59,9 @@ The list of lesser-known programming languages that you might be interested in.
 - [ldpl](https://github.com/Lartu/ldpl) - Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
 - [Leo](https://github.com/AleoHQ/leo) - Leo is a functional, statically-typed programming language built for writing private applications.  Leo provides a high-level language that abstracts low-level cryptographic concepts and makes it easy to integrate private applications into your stack. Leo compiles to circuits making zero-knowledge proofs practical.
-- [Links](https://links-lang.org/) - Links is a functional programming language designed to make web programming easier.
 - [Lobster](https://strlen.com/lobster/) - Lobster is a statically typed programming language with a Python-esque syntax that combines the advantages of an expressive type system and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you.
 # M:
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
-- [Mint](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web, aiming to solve the most common issues of Single Page Applications (SPAs) at a language level:
-  - Reusable components
-  - Styling
-  - Routing
-  - Global and local state handling
-  - Synchronous and asynchronous computations that might fail
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
 - [muon](https://github.com/nickmqb/muon) - Muon is a modern low-level programming language, inspired by C, C#, Go, Rust and Python.
 # N:
@@ -109,7 +100,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 # S:
-- [SATySFi](https://github.com/gfngfn/SATySFi) - SATySFi (pronounced in the same way as the verb “satisfy” in English) is a new typesetting system equipped with a statically-typed, functional programming language. It consists mainly of two “layers” ― the text layer and the program layer. The former is for writing documents in LaTeX-like syntax. The latter, which has OCaml-like syntax, is for defining functions and commands. SATySFi enables you to write documents markuped with flexible commands of your own making. In addition, its informative type error reporting will be a good help to your writing.
 - [Self](https://selflanguage.org/) - Self is a prototype-based dynamic object-oriented programming language, environment, and virtual machine centered around the principles of simplicity, uniformity, concreteness, and liveness.
 - [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 - [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
@@ -117,7 +107,6 @@ The list of lesser-known programming languages that you might be interested in.
 # T:
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_.
-- [Typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 # U:
 - [Umka](https://github.com/vtereshkov/umka-lang) - Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
 - [Unicon](https://github.com/uniconproject/unicon) - Unicon is a very high level programming language. It runs on many operating systems including most Linux distributions, Windows, macOS, and BSD systems. It also supports most modern CPU architectures such as i386, amd64, armhf, arm64, and ppc64el.
@@ -131,14 +120,9 @@ The list of lesser-known programming languages that you might be interested in.
 - [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 # W:
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
-- [Wasp](https://github.com/wasp-lang/wasp) - Wasp (Web Application Specification) is a Rails-like framework for React, Node.js, and Prisma. Build your app in a day and deploy it with a single CLI command!
-  - 🚀 Quick start: Due to its expressiveness, you can create and deploy a production-ready web app from scratch with very few lines of concise, consistent, declarative code.
-  - 😌 No boilerplate: By abstracting away complex full-stack features, there is less boilerplate code. That means less code to maintain and understand! It also means easier upgrades.
-  - 🔓 No lock-in: You can deploy the Wasp app anywhere you like. There is no lock-in into specific providers; you have full control over the code (and can actually check it out in .wasp/ dir if you are interested ).
 - [Wing](https://github.com/winglang/wing) - Winglang is a new open-source programming language designed for the cloud (aka "cloud-oriented"). Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure and application code in a safe and unified programming model (aka "cloud-oriented"). Wing programs can be executed locally (yes, no internet required) using a fully-functional simulator, or deployed to any cloud provider (yes, Wing programs are portable across providers).
 # X:
 - [X#](https://github.com/X-Sharp/XSharpPublic) - X# is an open source development language for .NET, based on the xBase language. It comes in different flavours, such as Core, Visual Objects, Vulcan.NET, xBase++, Harbour, Foxpro and more. X# has been built on top of Roslyn, the open source architecture behind the current Microsoft C# and Microsoft Visual Basic compilers.
-- [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
 # Y:
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
