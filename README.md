@@ -75,8 +75,6 @@ The list of lesser-known programming languages that you might be interested in.
   - Function tags/closures/error prompts/runtime stack traces/coroutines
   - Integrated SSA/linear scan register allocation/reflection/assembler & linker
 # O:
-- [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
-- [Objeck](https://github.com/objeck/objeck-lang) - Objeck is an object-oriented programming language with functional features. Objeck emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, and command line debugger with IDE plugins.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
 # P:
@@ -122,7 +120,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wing](https://github.com/winglang/wing) - Winglang is a new open-source programming language designed for the cloud (aka "cloud-oriented"). Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure and application code in a safe and unified programming model (aka "cloud-oriented"). Wing programs can be executed locally (yes, no internet required) using a fully-functional simulator, or deployed to any cloud provider (yes, Wing programs are portable across providers).
 # X:
-- [X#](https://github.com/X-Sharp/XSharpPublic) - X# is an open source development language for .NET, based on the xBase language. It comes in different flavours, such as Core, Visual Objects, Vulcan.NET, xBase++, Harbour, Foxpro and more. X# has been built on top of Roslyn, the open source architecture behind the current Microsoft C# and Microsoft Visual Basic compilers.
 # Y:
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
