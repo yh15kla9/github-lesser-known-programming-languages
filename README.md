@@ -4,13 +4,7 @@ The list of lesser-known programming languages that you might be interested in.
 ## Contents
 # A:
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
-- [Alan](https://github.com/alantech/alan) - Alan is a Autoscalable Programming Language:
-  - 🔭 Predictable runtime for all computations - A program is represented as DAG(s) where the running time for all computations can be predicted because there is no unbounded recursion or iteration;
-  - ⛓ Automatic IO concurrency and parallelism across events and arrays - Alan exploits opportunities for IO concurrency or CPU parallelization across machines in a cluster via arrays and a static event loop without threads, channels, promises, futures, locks, etc;
-  - ✅ Almost no runtime errors - No deadlocks, livelocks, undefined variables, divide-by-zero, integer under/overflow, array out-of-bounds access, etc;
-  - ⚡️ No GC pauses - Alan’s runtime manages memory allocation, access, and deallocation for you like Java, Python, or Javascript. However, Alan’s static event system and automatic event-oriented memory model does so without garbage collector pauses.
 - [Alda](https://github.com/alda-lang/alda) - Alda is a text-based programming language for music composition. It allows you to compose and play back music using only your text editor and the command line.
-- [Alumina](https://github.com/tibordp/alumina) - Alumina is an imperative, general-purpose, statically typed, compiled system programming language. Alumina is heavily inspired by Rust, especially in terms of syntax and standard library API. Unlike Rust, however, Alumina is not memory-safe and it requires manual memory management.
 # B:
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
