@@ -34,8 +34,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Leo](https://github.com/AleoHQ/leo) - Leo is a functional, statically-typed programming language built for writing private applications.  Leo provides a high-level language that abstracts low-level cryptographic concepts and makes it easy to integrate private applications into your stack. Leo compiles to circuits making zero-knowledge proofs practical.
 # M:
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
-- [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
-- [muon](https://github.com/nickmqb/muon) - Muon is a modern low-level programming language, inspired by C, C#, Go, Rust and Python.
 # N:
 - [Nature](https://github.com/nature-lang/nature) - Nature is the modern systems programming language and compiler, striving for elegant and concise syntax while prioritizing the writing and reading experience for developers. Key features of nature at the language level include:
   - Type system, null safety, generics, union types
