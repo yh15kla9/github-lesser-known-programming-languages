@@ -19,15 +19,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [Flow](https://github.com/area9innovation/flow9) - a safe, functional strongly-typed programming language.
 # G:
-- [Go+](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
-  - A static typed language.
-  - The simplest engineering language that can be mastered by children (script-like style).
-  - Performance: as fast as Go (Go+'s main backend compiles to human-readable Go).
-  - Fully compatible with Go and can mix Go/Go+ code in the same package (see Go/Go+ hybrid programming).
-  - No DSL (Domain Specific Language) support, but it's Specific Domain Friendly (see DSL vs. SDF).
-  - Support Go code generation (main backend) and bytecode backend (REPL: see iGo+).
-  - Simplest way to interaction with C (cgo is supported but not recommended).
-  - Powerful built-in data processing capabilities.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 # H:
 # I:
