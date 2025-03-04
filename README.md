@@ -11,7 +11,6 @@ The list of lesser-known programming languages that you might be interested in.
   - ⚡️ No GC pauses - Alan’s runtime manages memory allocation, access, and deallocation for you like Java, Python, or Javascript. However, Alan’s static event system and automatic event-oriented memory model does so without garbage collector pauses.
 - [Alda](https://github.com/alda-lang/alda) - Alda is a text-based programming language for music composition. It allows you to compose and play back music using only your text editor and the command line.
 - [Alumina](https://github.com/tibordp/alumina) - Alumina is an imperative, general-purpose, statically typed, compiled system programming language. Alumina is heavily inspired by Rust, especially in terms of syntax and standard library API. Unlike Rust, however, Alumina is not memory-safe and it requires manual memory management.
-- [Antimony](https://github.com/antimony-lang/antimony) - Antimony is a general-purpose toy language. Its primary goal is to be simple and easy to understand, not to be efficient.
 # B:
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
@@ -70,7 +69,6 @@ The list of lesser-known programming languages that you might be interested in.
   - Function tags/closures/error prompts/runtime stack traces/coroutines
   - Integrated SSA/linear scan register allocation/reflection/assembler & linker
 # O:
-- [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
 # P:
 - [Pharo](https://github.com/pharo-project/pharo) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [Processing](https://github.com/processing/processing4/) - Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
@@ -104,10 +102,8 @@ The list of lesser-known programming languages that you might be interested in.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 # V:
 - [V1](https://github.com/mwiedeV1/v1) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
-- [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
 - [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 # W:
-- [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wing](https://github.com/winglang/wing) - Winglang is a new open-source programming language designed for the cloud (aka "cloud-oriented"). Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure and application code in a safe and unified programming model (aka "cloud-oriented"). Wing programs can be executed locally (yes, no internet required) using a fully-functional simulator, or deployed to any cloud provider (yes, Wing programs are portable across providers).
 # X:
 # Y:
