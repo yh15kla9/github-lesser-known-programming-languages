@@ -16,7 +16,6 @@ The list of lesser-known programming languages that you might be interested in.
 # F:
 - [Faust](https://github.com/grame-cncm/faust) - Faust (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis. A distinctive characteristic of Faust is to be fully compiled.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
-- [Flow](https://github.com/area9innovation/flow9) - a safe, functional strongly-typed programming language.
 # G:
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 # H:
