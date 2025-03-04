@@ -6,7 +6,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Alda](https://github.com/alda-lang/alda) - Alda is a text-based programming language for music composition. It allows you to compose and play back music using only your text editor and the command line.
 # B:
-- [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
 # C:
 - [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
@@ -38,7 +37,6 @@ The list of lesser-known programming languages that you might be interested in.
 # O:
 # P:
 - [Pharo](https://github.com/pharo-project/pharo) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
-- [Processing](https://github.com/processing/processing4/) - Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 - [PureScript](https://github.com/purescript/purescript) - A strongly-typed functional programming language that compiles to JavaScript
 # Q:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
@@ -69,7 +67,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [V1](https://github.com/mwiedeV1/v1) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
 - [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 # W:
-- [Wing](https://github.com/winglang/wing) - Winglang is a new open-source programming language designed for the cloud (aka "cloud-oriented"). Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure and application code in a safe and unified programming model (aka "cloud-oriented"). Wing programs can be executed locally (yes, no internet required) using a fully-functional simulator, or deployed to any cloud provider (yes, Wing programs are portable across providers).
 # X:
 # Y:
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
