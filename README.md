@@ -35,7 +35,6 @@ The list of lesser-known programming languages that you might be interested in.
 # N:
 # O:
 # P:
-- [Pharo](https://github.com/pharo-project/pharo) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [PureScript](https://github.com/purescript/purescript) - A strongly-typed functional programming language that compiles to JavaScript
 # Q:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
