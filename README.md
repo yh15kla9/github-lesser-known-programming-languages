@@ -14,12 +14,10 @@ The list of lesser-known programming languages that you might be interested in.
 - [Antimony](https://github.com/antimony-lang/antimony) - Antimony is a general-purpose toy language. Its primary goal is to be simple and easy to understand, not to be efficient.
 # B:
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
-- [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
 # C:
 - [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
 - [Covariant Script](https://github.com/covscript/covscript) - Covariant Script is an open source, cross-platform programming language. High-performance runtime environment. Self-developed efficient compilation system. Powerful and bloat-free extension system
-- [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 # D:
 # E:
 - [Easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser. Easylang is a rather minimalistic simple programming language. Because of the clear syntax and semantics it is well suited as a teaching and learning language. Functions for graphic output and mouse input are built into the language. The language is written in C and is open source. Main target platform is the web browser using WASM. However, it also runs natively in Windows and Linux. The one-pass parser and compiler is quite fast. In the Web IDE, each time the Enter key is pressed, the program is parsed and formatted up to the current line.
@@ -72,11 +70,9 @@ The list of lesser-known programming languages that you might be interested in.
   - Function tags/closures/error prompts/runtime stack traces/coroutines
   - Integrated SSA/linear scan register allocation/reflection/assembler & linker
 # O:
-- [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
 # P:
 - [Pharo](https://github.com/pharo-project/pharo) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
-- [Pony](https://github.com/ponylang/ponyc) - Pony is a compiled, actor-model, capabilities-secure, high performance programming language that prevents concurrency mistakes such as data races and deadlocks by design with reasonable syntactic defaults. Its FFI allows Pony to interface with other languages.
 - [Processing](https://github.com/processing/processing4/) - Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 - [PureScript](https://github.com/purescript/purescript) - A strongly-typed functional programming language that compiles to JavaScript
 # Q:
@@ -98,7 +94,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Self](https://selflanguage.org/) - Self is a prototype-based dynamic object-oriented programming language, environment, and virtual machine centered around the principles of simplicity, uniformity, concreteness, and liveness.
 - [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 - [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
-- [Solidity](https://github.com/ethereum/solidity) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 # T:
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_.
@@ -109,7 +104,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 # V:
 - [V1](https://github.com/mwiedeV1/v1) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
-- [Vale](https://github.com/ValeLang/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
 - [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
 - [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 # W:
