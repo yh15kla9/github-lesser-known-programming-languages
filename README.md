@@ -19,7 +19,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [Flow](https://github.com/area9innovation/flow9) - a safe, functional strongly-typed programming language.
 # G:
-- [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Go+](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
   - A static typed language.
   - The simplest engineering language that can be mastered by children (script-like style).
