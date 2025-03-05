@@ -6,7 +6,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Alda](https://github.com/alda-lang/alda) - Alda is a text-based programming language for music composition. It allows you to compose and play back music using only your text editor and the command line.
 # B:
-- [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
 # C:
 - [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
 - [Covariant Script](https://github.com/covscript/covscript) - Covariant Script is an open source, cross-platform programming language. High-performance runtime environment. Self-developed efficient compilation system. Powerful and bloat-free extension system
@@ -52,7 +51,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 # S:
 - [Self](https://selflanguage.org/) - Self is a prototype-based dynamic object-oriented programming language, environment, and virtual machine centered around the principles of simplicity, uniformity, concreteness, and liveness.
-- [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 - [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
 # T:
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
@@ -63,7 +61,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 # V:
 - [V1](https://github.com/mwiedeV1/v1) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
-- [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 # W:
 # X:
 # Y:
