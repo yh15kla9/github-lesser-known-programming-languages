@@ -34,7 +34,6 @@ The list of lesser-known programming languages that you might be interested in.
 # N:
 # O:
 # P:
-- [PureScript](https://github.com/purescript/purescript) - A strongly-typed functional programming language that compiles to JavaScript
 # Q:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
@@ -43,9 +42,7 @@ The list of lesser-known programming languages that you might be interested in.
 - [Racket](https://github.com/racket/racket) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
 - [RascalMpl](https://github.com/usethesource/rascal) - Rascal Metaprogramming Language. Rascal is a programming language; such that meta programs can be created by, understood by, and debugged by programmers. Rascal primitives include immutable data, context-free grammars and algebraic data-types, relations, relational calculus operators, advanced patterns matching, generic type-safe traversal, comprehensions, concrete syntax for objects, lexically scoped backtracking, and string templates for code generation. It has libraries for integrating language front-ends, for reusing analysis algorithms, for getting typed meta-data out of version management systems, for interactive visualization, etc.
 - [Rave](https://github.com/Ttimofeyka/Rave) - Rave is a statically typed, compiled, procedural, general-purpose programming language.
-- [Reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems.
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
-- [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
 - [Rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [Roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
