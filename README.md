@@ -28,7 +28,6 @@ The list of lesser-known programming languages that you might be interested in.
 # L:
 - [L.B.Stanza](https://lbstanza.org/) - L.B. Stanza (or Stanza for short) is a new optionally-typed general purpose programming language from the University of California, Berkeley. Stanza was designed to help programmers tackle the complexity of architecting large programs and significantly increase the productivity of application programmers across the entire software development life cycle.
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
-- [Leo](https://github.com/AleoHQ/leo) - Leo is a functional, statically-typed programming language built for writing private applications.  Leo provides a high-level language that abstracts low-level cryptographic concepts and makes it easy to integrate private applications into your stack. Leo compiles to circuits making zero-knowledge proofs practical.
 # M:
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 # N:
@@ -37,7 +36,6 @@ The list of lesser-known programming languages that you might be interested in.
 # Q:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
-- [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
 # R:
 - [Racket](https://github.com/racket/racket) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
 - [Rave](https://github.com/Ttimofeyka/Rave) - Rave is a statically typed, compiled, procedural, general-purpose programming language.
