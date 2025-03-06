@@ -4,19 +4,15 @@ The list of lesser-known programming languages that you might be interested in.
 ## Contents
 # A:
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
-- [Alda](https://github.com/alda-lang/alda) - Alda is a text-based programming language for music composition. It allows you to compose and play back music using only your text editor and the command line.
 # B:
 # C:
-- [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
 - [Covariant Script](https://github.com/covscript/covscript) - Covariant Script is an open source, cross-platform programming language. High-performance runtime environment. Self-developed efficient compilation system. Powerful and bloat-free extension system
 # D:
 # E:
 - [Elena](https://github.com/ELENA-LANG/elena-lang) - ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. Rich set of tools are provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers, run-time interfaces.
 # F:
-- [Faust](https://github.com/grame-cncm/faust) - Faust (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis. A distinctive characteristic of Faust is to be fully compiled.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 # G:
-- [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 # H:
 # I:
 # J:
