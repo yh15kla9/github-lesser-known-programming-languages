@@ -17,7 +17,6 @@ The list of lesser-known programming languages that you might be interested in.
 # I:
 # J:
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
-- [Jim](https://jim.tcl.tk/index.html/doc/www/www/index.html) - Jim is an opensource small-footprint implementation of the Tcl programming language. It implements a large subset of Tcl and adds new features like references with garbage collection, closures, built-in Object Oriented Programming system, Functional Programming commands, first-class arrays and UTF-8 support. All this with a binary size of about 100-200kB (depending upon selected options).
 # K:
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 # L:
