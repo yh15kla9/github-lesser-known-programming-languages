@@ -21,7 +21,6 @@ The list of lesser-known programming languages that you might be interested in.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 # L:
 - [L.B.Stanza](https://lbstanza.org/) - L.B. Stanza (or Stanza for short) is a new optionally-typed general purpose programming language from the University of California, Berkeley. Stanza was designed to help programmers tackle the complexity of architecting large programs and significantly increase the productivity of application programmers across the entire software development life cycle.
-- [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
 # M:
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 # N:
