@@ -31,7 +31,6 @@ The list of lesser-known programming languages that you might be interested in.
 # R:
 - [Racket](https://github.com/racket/racket) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
 # S:
-- [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
 # T:
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_.
 # U:
